@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="next-gen-db-sdk",  # The name of your package
-    version="0.1",  # Initial version of your package
+    version="0.1.1",  # Initial version of your package
     packages=find_packages(),  # Automatically find packages
     install_requires=["requests"],  # Dependencies your package needs
     description="Python SDK to interact with next-gen-db",  # Short description

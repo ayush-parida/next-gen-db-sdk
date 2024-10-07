@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: next-gen-db-sdk
-Version: 0.1
+Version: 0.1.1
 Summary: Python SDK to interact with next-gen-db
 Home-page: https://github.com/ayush-parida/next-gen-db-sdk.git
 Author: Ayush Parida
